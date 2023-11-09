@@ -27,7 +27,7 @@ To run Polls_app_auth locally, follow these steps:
 1. **Clone the repository:**
 
     ```bash
-    git clone https://github.com/your-username/Polls_app_auth.git
+    git clone https://github.com/tshamala-pathy/Polls_app_auth.git
     ```
 
 2. **Navigate to the project directory:**
