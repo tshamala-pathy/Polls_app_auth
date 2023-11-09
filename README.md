@@ -83,6 +83,8 @@ Visit `http://localhost:3000` to access the application.
 5. Participants can vote after authenticating.
 
 ## Screenshots
+![Screenshot 2023-11-09 233823](https://github.com/tshamala-pathy/Polls_app_auth/assets/146994366/aef34a21-f62f-41e7-bb45-a360f4d6a390)
+
 
 Include screenshots of your application in action. These could showcase the login page, poll creation, and participation process. Images help users understand the look and feel of your application.
 
