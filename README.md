@@ -83,9 +83,12 @@ Visit `http://localhost:3000` to access the application.
 5. Participants can vote after authenticating.
 
 ## Screenshots
-![Login Page](screenshots/login_page.png)
-![Poll Creation](screenshots/poll_creation.png)
-![Voting](screenshots/voting.png)
+![Login Page](![Screenshot 2023-11-09 233823](https://github.com/tshamala-pathy/Polls_app_auth/assets/146994366/e699b5af-369c-46f6-a6d1-dfdfc5ddaef2)
+)
+![Poll Creation](![Screenshot 2023-11-09 233914](https://github.com/tshamala-pathy/Polls_app_auth/assets/146994366/42759a4f-23c9-49be-8e3c-5414326b5112)
+)
+![Voting](![Screenshot 2023-11-09 233934](https://github.com/tshamala-pathy/Polls_app_auth/assets/146994366/2d68adf4-3890-4d5c-957c-ff6c847cff25)
+)
 
 Include screenshots of your application in action. These could showcase the login page, poll creation, and participation process. Images help users understand the look and feel of your application.
 
