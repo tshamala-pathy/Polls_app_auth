@@ -92,7 +92,8 @@ Visit `http://localhost:3000` to access the application.
 
 Include screenshots of your application in action. These could showcase the login page, poll creation, and participation process. Images help users understand the look and feel of your application.
 
-![Login Page](screenshots/login.png)
+![Login Page](![Screenshot 2023-11-09 233823](https://github.com/tshamala-pathy/Polls_app_auth/assets/146994366/4e5cf171-895a-47ee-900f-e203980270e1)
+)
 ![Poll Creation](screenshots/poll_creation.png)
 ![Voting](screenshots/voting.png)
 
