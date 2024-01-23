@@ -83,19 +83,11 @@ Visit `http://localhost:3000` to access the application.
 5. Participants can vote after authenticating.
 
 ## Screenshots
-![Screenshot 2023-11-09 233823](https://github.com/tshamala-pathy/Polls_app_auth/assets/146994366/aef34a21-f62f-41e7-bb45-a360f4d6a390)
-
-![Screenshot 2023-11-09 233914](https://github.com/tshamala-pathy/Polls_app_auth/assets/146994366/7350dfe4-60d9-4963-83f3-07a199f7567a)
-
-![Screenshot 2023-11-09 233934](https://github.com/tshamala-pathy/Polls_app_auth/assets/146994366/37e5474b-c90a-4cd8-b27b-52716c7d43c9)
-
-
-Include screenshots of your application in action. These could showcase the login page, poll creation, and participation process. Images help users understand the look and feel of your application.
-
-![Login Page](![Screenshot 2023-11-09 233823](https://github.com/tshamala-pathy/Polls_app_auth/assets/146994366/4e5cf171-895a-47ee-900f-e203980270e1)
-)
+![Login Page](screenshots/login_page.png)
 ![Poll Creation](screenshots/poll_creation.png)
 ![Voting](screenshots/voting.png)
+
+Include screenshots of your application in action. These could showcase the login page, poll creation, and participation process. Images help users understand the look and feel of your application.
 
 ## Contributing
 
@@ -106,7 +98,6 @@ Contributions are welcome! Please follow the [Contributing Guidelines](CONTRIBUT
 This project is maintained by [Your Name]. If you have any questions or need assistance, feel free to reach out.
 
 - [Pathy](https://github.com/tshamala-pathy)
-
 
 ## License
 
