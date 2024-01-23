@@ -100,7 +100,7 @@ Contributions are welcome! Please follow the [Contributing Guidelines](CONTRIBUT
 
 This project is maintained by Tshamala Pathy. If you have any questions or need assistance, feel free to reach out.
 
-- [Email](pathypathyco999@gmail.com)
+- [Github](https://github.com/tshamala-pathy)
 
 ## License
 
