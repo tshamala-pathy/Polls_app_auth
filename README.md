@@ -98,9 +98,9 @@ Contributions are welcome! Please follow the [Contributing Guidelines](CONTRIBUT
 
 ## Credits
 
-This project is maintained by [Your Name]. If you have any questions or need assistance, feel free to reach out.
+This project is maintained by Tshamala Pathy. If you have any questions or need assistance, feel free to reach out.
 
-- [Pathy](https://github.com/tshamala-pathy)
+- [Email](pathypathyco999@gmail.com)
 
 ## License
 
